@@ -13,7 +13,7 @@ def hawkid():
 # and Google Geocoding API.  Both require use of an API key.
 # 
 # When you have the API key, put it between the quotes in the string below
-GOOGLEAPIKEY = "AIzaSyCeGycpewBbKTjJSIzoyYE3YPjGfIR7Q_0"
+GOOGLEAPIKEY = ""
 
 # To run the HW10 program, call the last function in this file: HW10().
 
